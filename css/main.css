@@ -1,3 +1,11 @@
 .navbar-inverse .navbar-toggle {
     background-color: #449d44;
 }
+
+.row1 {
+    border-bottom: 1px solid #eee;
+}
+
+.row1, .row2 {
+    padding: 50px;
+}
